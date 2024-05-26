@@ -1,0 +1,65 @@
+.margin-top {
+    margin-top: 2em;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    line-height: 60px;
+    margin-top: auto 0;
+}
+
+.padding-left {
+    padding-left: 10px;
+}
+
+a:hover{
+    background-color: lightcoral !important;
+}
+
+a{
+    color: brown !important;
+}
+.navbar a {
+    color: white !important;
+}
+h1{
+    color:brown !important;
+}
+
+h2{
+    color:brown !important;
+}
+
+label {
+    color:brown !important;
+}
+
+.btn {
+    background-color:brown !important;
+    border-color:brown !important;
+    color:white;
+}
+
+.jumbotron .btn {
+    background-color:brown !important;
+    border-color:brown !important;
+    color:white !important;
+}
+
+.jumbotron {
+    background-color: lightcoral; 
+    color: whitesmoke;
+}
+
+.breadcrumb {
+    background-color:rgb(255, 186, 168) !important;
+}
+
+.list-group-item.active{
+    background-color:rgb(255, 186, 168) !important;
+}
